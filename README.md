@@ -6,6 +6,7 @@ Official implementation of "RCDPT: Radar-Camera Fusion Dense Prediction Transfor
 ## Dependency
 
 Please check `Dockerfile` for environment settings and python packages
+
 Or you could directly use the pre-built docker image with tag 'lochenchou/det:mde' from docker hub.
 
 ## Usage
